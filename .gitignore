@@ -1,0 +1,21 @@
+# Large Legacy Model Checkpoints & Raw Train Data
+*.h5
+*.zip
+Card Image Dataset-Classification/train/
+
+# Python caches & Jupyter checkpoints
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.venv/
+env/
+venv/
+
+# IDE & Editor files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

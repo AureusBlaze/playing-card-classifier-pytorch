@@ -1,0 +1,2 @@
+# Ensure GitHub language statistics highlight Python rather than Jupyter Notebook
+*.ipynb linguist-detectable=false
